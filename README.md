@@ -1,10 +1,6 @@
 data目录下包括公司数据:
 
-公司数据：
-company_industry50W.xlsx
-
-行业数据：
-t.xls
+公司数据,行业数据按格式存放在data目录
 
 自定义分词库：
 disc.txt
